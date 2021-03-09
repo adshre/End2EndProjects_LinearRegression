@@ -1,2 +1,2 @@
 # End2EndProjects
-![](StockPrediction.mov)
+![](StockPrediction.gif)

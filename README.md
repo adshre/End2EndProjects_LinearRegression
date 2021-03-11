@@ -22,16 +22,18 @@ Kaggle Dataset Reference : https://www.kaggle.com/aayushmishra1512/faang-complet
  6. Bootstrap
  7. HTML & CSS
 
-# complete application video  : https://github.com/adshre/End2EndProjects_LinearRegression/blob/master/StockPrediction.mov
+# complete application video  :
+https://github.com/adshre/End2EndProjects_LinearRegression/blob/master/StockPrediction.mov
 
 # Created By :
 Aditi .D. Telang
+## Journey Blog :
 
 ### References : 
-https://medium.com/@ranaprathap/learning-ml-with-andrew-part-1-linear-regression-with-a-single-variable-615f2d163b88
-https://blog.ruanbekker.com/blog/2018/12/09/python-flask-tutorial-series-setup-a-python-virtual-environment-p2/
-https://topherpedersen.blog/2019/12/28/how-to-setup-a-new-flask-app-on-a-mac/
-https://www.kaggle.com/jagannathrk/extensive-eda-analysis-on-tesla-stock-data
-https://github.com/Devansharma/Health-App/blob/main/README.md
+https://medium.com/@ranaprathap/learning-ml-with-andrew-part-1-linear-regression-with-a-single-variable-615f2d163b88 \
+https://blog.ruanbekker.com/blog/2018/12/09/python-flask-tutorial-series-setup-a-python-virtual-environment-p2/ \
+https://topherpedersen.blog/2019/12/28/how-to-setup-a-new-flask-app-on-a-mac/ \
+https://www.kaggle.com/jagannathrk/extensive-eda-analysis-on-tesla-stock-data \
+https://github.com/Devansharma/Health-App/blob/main/README.md 
 
 and many more :)

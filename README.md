@@ -1,2 +1,2 @@
 # End2EndProjects
-![Alt text](stockprediction_compressed.mov)
+![Alt text](StockPrediction.gif)

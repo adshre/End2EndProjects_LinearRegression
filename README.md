@@ -1,2 +1,2 @@
 # End2EndProjects
-![](StockPrediction.gif)
+<video style="width:70%" controls src="StockPrediction.mov"></video>

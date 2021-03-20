@@ -22,12 +22,13 @@ Kaggle Dataset Reference : https://www.kaggle.com/aayushmishra1512/faang-complet
  6. Bootstrap
  7. HTML & CSS
 
-# complete application video  :
+# complete application video  : 
 https://github.com/adshre/End2EndProjects_LinearRegression/blob/master/StockPrediction.mov
 
 # Created By :
 Aditi .D. Telang
-## Journey Blog : https://aditi-telang208.medium.com/line-of-best-fit-2ec495b1eb3a
+## Journey Blog :
+https://aditi-telang208.medium.com/line-of-best-fit-2ec495b1eb3a
 
 ### References : 
 https://medium.com/@ranaprathap/learning-ml-with-andrew-part-1-linear-regression-with-a-single-variable-615f2d163b88 \
